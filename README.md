@@ -2,6 +2,13 @@ This is a modified version of the [nf-core/raredisease](https://github.com/nf-co
 
 All original license terms apply.
 
+# Quick run test
+```bash
+nextflow run nf-core/raredisease \
+   -profile docker,test \
+   --outdir result/ 
+```
+
 
 <h1>
   <picture>
