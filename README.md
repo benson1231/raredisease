@@ -1,3 +1,8 @@
+This is a modified version of the [nf-core/raredisease](https://github.com/nf-core/raredisease) pipeline, originally developed and licensed under the MIT License by the nf-core team.
+
+All original license terms apply.
+
+
 <h1>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/nf-core-raredisease_logo_dark.png">
