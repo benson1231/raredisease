@@ -1,6 +1,8 @@
-This is a modified version of the [nf-core/raredisease](https://github.com/nf-core/raredisease) pipeline, originally developed and licensed under the MIT License by the nf-core team.
+> This is a modified version of the [nf-core/raredisease](https://github.com/nf-core/raredisease) pipeline in 2025/06/30, originally developed and licensed under the MIT License by [nf-core/raredisease team](https://github.com/nf-core/raredisease/graphs/contributors).
 
-All original license terms apply.
+> 📌 本 README 為基於 [nf-core/raredisease](https://github.com/nf-core/raredisease) 的修改版本，僅用於學習與紀錄用途，2025/06/30。
+> 原始專案由 [nf-core/raredisease team](https://github.com/nf-core/raredisease/graphs/contributors) 開發，原始授權為 MIT License。
+
 
 # Quick run test
 ```bash
@@ -9,6 +11,7 @@ nextflow run nf-core/raredisease \
    --outdir result/ 
 ```
 
+---
 
 <h1>
   <picture>
