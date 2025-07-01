@@ -7,8 +7,8 @@
 # Quick run test
 ```bash
 nextflow run nf-core/raredisease \
-   -profile docker,test \
-   --outdir result/ 
+   -profile test,docker \
+   --outdir results/ 
 ```
 
 ---
